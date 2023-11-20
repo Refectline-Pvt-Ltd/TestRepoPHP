@@ -9,5 +9,20 @@ echo $test;
 ?>
 
 <html>
-    <head><title>TEst</title></head>
+    <head><title>TEst</title>
+
+
+<style>
+    .test{
+        color: red;
+    }
+</style>
+
+</head>
+
+    <body> 
+
+        <h1 class="test">TEst</h1>
+
+    </body>
 </html>
